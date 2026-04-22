@@ -6,7 +6,9 @@ func main() {
 	SegitigaSamaKaki(4)
 	SegitigaSikuKiri(5)
 	SegitigaSikuKanan(3)
-
+	SACount()
+	SAGanjilGenap()
+	SARevers(15)
 }
 
 func SegitigaSamaKaki(count int) {
